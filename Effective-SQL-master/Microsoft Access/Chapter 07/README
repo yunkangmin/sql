@@ -1,0 +1,35 @@
+This folder contains samples and scripts for chapter 7.
+
+7-001 -- Not included: listing is DB2 specific
+7-002 -- Not included: listing is DB2 specific
+7-003 -- Contained as registry entry files 
+            Listing 7.003a -- Registry Key to turn Show Plan on for Access 2013 on Windows x64.reg
+            Listing 7.003b -- Registry Key to turn Show Plan on for Access 2013 on Windows x86.reg
+            Listing 7.003c -- Registry Key to turn Show Plan on for Access 2010 on Windows x64.reg
+            Listing 7.003d -- Registry Key to turn Show Plan on for Access 2010 on Windows x86.reg
+7-004 -- Contained as registry entry files 
+            Listing 7.004a -- Registry Key to turn Show Plan off for Access 2013 on Windows x64.reg
+            Listing 7.004b -- Registry Key to turn Show Plan off for Access 2013 on Windows x86.reg
+            Listing 7.004c -- Registry Key to turn Show Plan off for Access 2010 on Windows x64.reg
+            Listing 7.004d -- Registry Key to turn Show Plan off for Access 2010 on Windows x86.reg
+7-005 -- Not included: listing is SQL Server specific
+7-006 -- Not included: listing is SQL Server specific
+7-007 -- Not included: listing is MySQL specific
+7-008 -- Not included: listing is MySQL specific
+7-009 -- Not included: listing is Oracle specific
+7-010 -- Not included: listing is Oracle specific
+7-011 -- Not included: listing is PostgreSQL specific
+7-012 -- Not included: listing is PostgreSQL specific
+7-013 -- Not included: listing is PostgreSQL specific
+7-014 -- Not included: Access does not support INFORMATION_SCHEMA
+7-015 -- Not included: Access does not support INFORMATION_SCHEMA
+7-016 -- Not included: Access does not support INFORMATION_SCHEMA
+7-017 -- Not included: Access does not support INFORMATION_SCHEMA
+7-018 -- Not included: seemed pointless, since none of the other listings for Item 45 were included
+7-019 -- Not included: Listing is SQL Server specific
+7-020 -- Not included: Listing is SQL Server specific
+7-021 -- Contained as query Listing 7-021 in SalesOrdersSample.accdb (in the Sample Databases folder)
+7-022 -- Contained as query Listing 7-022 in SalesOrdersSample.accdb (in the Sample Databases folder)
+7-023 -- Contained as query Listing 7-023 in SalesOrdersSample.accdb (in the Sample Databases folder)
+7-024 -- Contained as query Listing 7-024 in SalesOrdersSample.accdb (in the Sample Databases folder)
+7-025 -- Contained as query Listing 7-025 in SalesOrdersSample.accdb (in the Sample Databases folder)

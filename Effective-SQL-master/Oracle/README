@@ -1,0 +1,13 @@
+The folder contains samples and scripts for the specific vendor's implementation.
+
+REMINDER:
+In Oracle, use CREATE USER to create a new container for application tables.  Use
+CREATE DATABASE to create a new instance of the Oracle system. Oracle recognizes 
+the CREATE SCHEMA command but it means to create objects within an existing schema. 
+New schema can only be created with CREATE USER command.
+
+NOTE:
+All CREATE USER command assumes that your Oracle installation has defined USERS and
+TEMP for default tablespace and temporary tablespace. If neither exist in your 
+installation, you must adjust the name of the tablespaces for the CREATE USER
+command to succeed. 

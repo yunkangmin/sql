@@ -1,0 +1,8 @@
+The folder contains samples and scripts for chapter 4.
+
+The following are not included:
+
+4.001 -- MySQL does not support INTERSECT.
+4.003 -- MySQL does not support EXCEPT.
+4.013 -- You cannot return a Table from a Function in MySQL.
+4.016 -- You cannot return a Table from a Function in MySQL.
